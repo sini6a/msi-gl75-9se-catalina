@@ -6,23 +6,26 @@ Required files and configuration. Still work-in-progress.
 Laptop Configuration:
 - MSI GL75 9SE
 - OS: macOS Catalina
-- CPU: Intel 8750H 2.60 GHz
+- CPU: Intel i7-9750H 2.60 GHz
 - GPU: NVIDIA GeForce RTX 2080 (NOT WORKING UNDER macOS)
-- RAM: 16 GB
+- RAM: 16 GB 2666 MHz
 - SSD: NVME 500GB
 
 What's working:
 * Native Power Management
+* Sleep
 * GPU Hardware Acceleration
 * USB Ports (with modified PM)
 * Audio
 * Bluetooth
+* Ethernet
 
 Work-in-progress:
-* USB SD Card Reader (Realtek)
+* Integrated Card Reader (Realtek)
 * Brightness Control
+* Integrated Camera
 
 What cannot be fixed:
 * NVIDIA GeForce RTX 2080
-* HDMI Port (Routed through RTX)
-* Wireless (Intel)
+* HDMI Port (routed through RTX)
+* Integrated Wireless (Intel)
