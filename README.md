@@ -1,5 +1,7 @@
 # msi-gl75-9se-catalina
-MSI G75 9SE required kexts and configs
+MSI G75 
+
+![Screenshot Image](https://raw.githubusercontent.com/sini6a/msi-gl75-9se-catalina/master/ss.png)
 
 Required files and configuration. Still work-in-progress.
 
